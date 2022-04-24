@@ -7,4 +7,4 @@ Funkar bäst på Windows kommandotolk
 
 Spelet innehåller 4 ljud-filer
 
-<img src="screenshot.png" alt="Screenshot" title="Game Screenshot">
+<img src="screenshot.PNG" alt="Screenshot" title="Game Screenshot">
