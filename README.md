@@ -1,9 +1,9 @@
 # Python-Game
-Text based game made in python
+Text baserat spel gjort i Python
 
-This is a turn based fighting game made completely in python. It works best with the windows terminal.
+Detta är ett "turn based fighting game" som fungerar bäst i Windows Terminalen.
 
-Contains a few sound files.
+Innehåller några ljudfiler
 
 
 <img src="screenshot.PNG" alt="Screenshot" title="Game Screenshot">
